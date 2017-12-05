@@ -1,0 +1,3 @@
+192.168.250.4 -----> SCADA SOFTWARE PC (INDUSOFT)
+192.168.250.2 -----> Direct Logic 06 Koyo PLC
+192.168.10.15 -----> Red Lion Protocol Converter ( translates modbus to schneider PLC - 192.168.250.13) based on TCP, but doing a UDP on 520 still resulted in making them be unresponsible.
