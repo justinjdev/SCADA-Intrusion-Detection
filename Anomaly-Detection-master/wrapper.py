@@ -19,7 +19,9 @@ def start_network_capture(in_path=''):
     return output_status
     
 def process_pcap(path=''):
-    output_status = cat
+    # for the simple version
+    # output is ordered most likely to be intrusion at the top
+    subprocess.run('cat input.json | python ad_simple.py ip_ip_src ip_ip_dst')
    
 def train_model(path='input.json')   
     
