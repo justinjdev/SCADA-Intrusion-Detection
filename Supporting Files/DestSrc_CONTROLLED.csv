@@ -1,0 +1,26 @@
+level,parent,Topic / Item,Count,Average,Min val,Max val,Rate (ms),Percent,Burst rate,Burst start
+0,,Source IPv4 Addresses,53746,,,,0.0624,100%,0.65,431.633
+1,/Source IPv4 Addresses,192.168.250.4,27790,,,,0.0323,51.71%,0.29,431.633
+1,/Source IPv4 Addresses,192.168.250.2,9996,,,,0.0116,18.60%,0.1,56.586
+1,/Source IPv4 Addresses,192.168.10.15,4660,,,,0.0054,8.67%,0.05,199.527
+1,/Source IPv4 Addresses,192.168.250.3,4319,,,,0.005,8.04%,0.07,39.77
+1,/Source IPv4 Addresses,10.10.0.7,3046,,,,0.0035,5.67%,0.04,2.296
+1,/Source IPv4 Addresses,192.168.250.10,2914,,,,0.0034,5.42%,0.04,220.049
+1,/Source IPv4 Addresses,10.10.0.3,885,,,,0.001,1.65%,0.16,62.678
+1,/Source IPv4 Addresses,192.168.250.8,95,,,,0.0001,0.18%,0.21,431.695
+1,/Source IPv4 Addresses,192.168.250.11,41,,,,0,0.08%,0.21,536.217
+0,,Destination IPv4 Addresses,53746,,,,0.0624,100%,0.65,431.633
+1,/Destination IPv4 Addresses,192.168.250.4,25818,,,,0.03,48.04%,0.32,431.634
+1,/Destination IPv4 Addresses,192.168.250.10,5728,,,,0.0067,10.66%,0.05,189.516
+1,/Destination IPv4 Addresses,192.168.10.15,5692,,,,0.0066,10.59%,0.04,30.375
+1,/Destination IPv4 Addresses,192.168.250.3,5685,,,,0.0066,10.58%,0.04,4.162
+1,/Destination IPv4 Addresses,192.168.250.2,4998,,,,0.0058,9.30%,0.05,56.585
+1,/Destination IPv4 Addresses,10.10.0.7,4461,,,,0.0052,8.30%,0.04,2.282
+1,/Destination IPv4 Addresses,10.10.0.3,825,,,,0.001,1.53%,0.16,62.677
+1,/Destination IPv4 Addresses,192.168.250.255,190,,,,0.0002,0.35%,0.04,39.805
+1,/Destination IPv4 Addresses,10.10.0.5,141,,,,0.0002,0.26%,0.01,1.726
+1,/Destination IPv4 Addresses,239.255.255.250,92,,,,0.0001,0.17%,0.14,533.61
+1,/Destination IPv4 Addresses,224.0.0.252,36,,,,0,0.07%,0.02,431.695
+1,/Destination IPv4 Addresses,255.255.255.255,28,,,,0,0.05%,0.01,20.75
+1,/Destination IPv4 Addresses,192.168.250.8,27,,,,0,0.05%,0.18,431.697
+1,/Destination IPv4 Addresses,192.168.250.11,25,,,,0,0.05%,0.19,536.216
